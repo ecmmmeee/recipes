@@ -1,0 +1,3 @@
+put wings into oven at 350
+wait 1 hour
+eat
